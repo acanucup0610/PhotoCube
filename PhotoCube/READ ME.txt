@@ -1,0 +1,21 @@
+PhotoCube 
+By: Angelo Nucup
+
+CSC 690 Project
+
+Usage: Run PhotoCube.pde using Processing 2.x in AndroidMode
+
+Download Processing:https://www.processing.org/download/
+
+Download SDK Tools: http://developer.android.com/sdk/index.htm
+
+Unzip AndroidMode zipped folder and moved it inside the Processing modes folder (Usually under Documents).
+
+Import APWidgets.
+Import Ketai Library.
+
+Website: http://thecity.sfsu.edu/~itscarl/Photocube.html
+
+Run the application using an emulator or by connecting it to a device.
+
+Use of a device with front and back camera is recommended to use the application's max camera features.
